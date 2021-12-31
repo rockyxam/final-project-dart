@@ -21,7 +21,7 @@
   <br>
   
   ## Screens DB: 
-  Firebas
+  Firebase
   
   <table>
     <tr>
